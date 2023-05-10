@@ -13,8 +13,4 @@ git config --global user.email
 git add.
 git commit -m 'primer commit'
 git log
-# aspirantes-mir-ejercicio1
-# aspirantes-mir-ejercicio1
-# aspirante-mir-ejercicio1
-# aspirante-mir-ejercicio1
-# aspirante-mir-ejercicio1
+
